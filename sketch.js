@@ -9,7 +9,7 @@ let avgEnergy = 0;
 let velocities = [];
 let energies = [];
 let histogramBins = 20;
-let particleRadius = 1;
+let particleRadius = 2;
 let maxVelocity = 5;
 
 let pressureHistory = [];
